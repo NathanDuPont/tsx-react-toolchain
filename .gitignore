@@ -1,3 +1,6 @@
+# Distribution Folder
+dist/
+
 # Hot Application Files
 *.hot-update.js
 *.hot-update.json
